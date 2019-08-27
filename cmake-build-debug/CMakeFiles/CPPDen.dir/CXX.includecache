@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/storm/CLionProjects/CPPDen/book.h
+iostream
+-
+string
+-
+
+/home/storm/CLionProjects/CPPDen/dll.h
+iostream
+-
+
+/home/storm/CLionProjects/CPPDen/main.cpp
+iostream
+-
+time.h
+-
+string
+-
+book.h
+/home/storm/CLionProjects/CPPDen/book.h
+dll.h
+/home/storm/CLionProjects/CPPDen/dll.h
+
