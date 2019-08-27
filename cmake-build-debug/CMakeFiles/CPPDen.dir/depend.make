@@ -4,4 +4,5 @@
 CMakeFiles/CPPDen.dir/main.cpp.o: ../book.h
 CMakeFiles/CPPDen.dir/main.cpp.o: ../dll.h
 CMakeFiles/CPPDen.dir/main.cpp.o: ../main.cpp
+CMakeFiles/CPPDen.dir/main.cpp.o: ../my_exception.h
 

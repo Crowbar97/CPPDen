@@ -93,6 +93,9 @@
 		<Unit filename="/home/storm/CLionProjects/CPPDen/main.cpp">
 			<Option target="CPPDen"/>
 		</Unit>
+		<Unit filename="/home/storm/CLionProjects/CPPDen/my_exception.h">
+			<Option target="CPPDen"/>
+		</Unit>
 		<Unit filename="/home/storm/CLionProjects/CPPDen/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
